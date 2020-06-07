@@ -59,10 +59,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amadoyeshua/ecoleta-nlw-rocketseat
+$ git clone https://github.com/amadoyeshua/Ecoleta-Starter-NLW
 
 # Go into the repository
-$ cd /ecoleta-nlw-rocketseat
+$ cd /Ecoleta-Starter-NLW
 
 # Install dependencies
 $ npm install
@@ -70,7 +70,7 @@ $ npm install
 # Run Project
 $ npm start
 
-# running on port 3333
+# running on port 30000
 ```
 
 ## 🤔 How to contribute
