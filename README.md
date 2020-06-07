@@ -70,7 +70,7 @@ $ npm install
 # Run Project
 $ npm start
 
-# running on port 30000
+# running on port 3000
 ```
 
 ## 🤔 How to contribute
