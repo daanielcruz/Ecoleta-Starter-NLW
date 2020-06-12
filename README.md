@@ -8,7 +8,7 @@
 <p align="center">
  
   <a href="https://www.linkedin.com/in/danielfercruz/">
-    <img alt="Made by Amadoyeshua" src="https://img.shields.io/badge/made%20by-Amadoyeshua-%2304D361">
+    <img alt="Made by daanielcruz" src="https://img.shields.io/badge/made%20by-daanielcruz-%2304D361">
   </a>
 
 </p>
@@ -59,7 +59,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amadoyeshua/Ecoleta-Starter-NLW
+$ git clone https://github.com/daanielcruz/Ecoleta-Starter-NLW
 
 # Go into the repository
 $ cd /Ecoleta-Starter-NLW
@@ -82,7 +82,7 @@ $ npm start
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-Made with ♥ by Daniel Cruz [AmadoYeshua~] :wave: [Get in touch!](https://www.linkedin.com/in/danielfercruz/)
+Made with ♥ by Daniel Cruz [daanielcruz~] :wave: [Get in touch!](https://www.linkedin.com/in/danielfercruz/)
 
 [nodejs]: https://nodejs.org/
 [vs]: https://code.visualstudio.com/
